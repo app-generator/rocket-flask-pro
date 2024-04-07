@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.1] 2024-04-07
+### Changes
+
+- Fix Styling 
+- Sidebar Update (minor)
+
 ## [1.0.0] 2024-04-07
 ### Changes
 
